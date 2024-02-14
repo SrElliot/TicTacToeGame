@@ -1,5 +1,5 @@
 Mejoras:
-Aquí hay algunas mejoras que podrías considerar:
+Aquí hay algunas mejoras que se realizaron:
 
 1. Refactorización de código duplicado: Había un código duplicado en el método `computerTurn()`. Se creo un método privado que recorre la cuadrícula y realice una acción específica en la primera celda vacía que encuentre.
 
